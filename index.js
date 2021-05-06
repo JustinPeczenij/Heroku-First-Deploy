@@ -1,3 +1,4 @@
+require('dotenv').config()
 console.log('it is working')
 const express = require('express')
 
